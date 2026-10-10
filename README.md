@@ -34,3 +34,7 @@ Each node uses an OLED display (128x64) to display:
 ├── Node2.ino     // Source code for Node 2 (BME680 Sensor)
 ├── Node3.ino     // Source code for Node 3 (Analog Sound Sensor)
 └── README.md     // Project documentation
+
+## License
+
+This project (hardware design and firmware) is released under the [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.txt) (`CERN-OHL-P-2.0`). Copyright (c) 2026 Rujul Rumale. See [LICENSE](LICENSE).
